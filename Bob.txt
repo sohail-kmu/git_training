@@ -1,1 +1,2 @@
 "contents for Bob.txt right here" 
+"this text to be appended to Bob"
